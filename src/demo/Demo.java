@@ -17,7 +17,7 @@ public class Demo {
         // TODO code application logic here
         System.out.println("hello world");
         
-        int 1 + int 2 ;
+       System.out.println("hello again");
         
     }
     
